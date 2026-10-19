@@ -4,6 +4,9 @@
 [СберДиск](https://files.sberdisk.ru/s/QZL8bBCBwipkprX)  
 
 ❌ 1. Введение в нейронные сети
+- ✔️ лекция
+- ❌ семинар
+- ❌ домашка
 
 ❌ 2. Градиентный спуск. Backpropagation, Pytorch
 
