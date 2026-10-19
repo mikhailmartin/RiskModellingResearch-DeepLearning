@@ -9,7 +9,7 @@
 
 ❌ 3. Эвристики для обучения нейронных сетей
 
-❌ 4. Feature Engineering, TensorBoard, MLFlow
+❌ 4. Feature Engineering, TensorBoard, MLflow
 
 ❌ 5. Нейронные сети для табличных данных (TabNet, DeepFM)
 
