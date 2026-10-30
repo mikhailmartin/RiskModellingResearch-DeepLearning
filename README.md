@@ -20,6 +20,9 @@
 - ✔️ семинар
 
 ❌ 4. Feature Engineering, TensorBoard, MLflow
+- ✔️ лекция
+- ❌ семинар
+- ❌ домашка
 
 ❌ 5. Нейронные сети для табличных данных (TabNet, DeepFM)
 
