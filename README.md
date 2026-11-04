@@ -34,14 +34,14 @@
 - ✔️ домашка 4
 
 </details>
-<details open="true"><summary>❌ 5. Нейронные сети для табличных данных (DeepFM, TabNet)</summary>
+<details><summary>✔️ 5. Нейронные сети для табличных данных (DeepFM, TabNet)</summary>
 
 - ✔️ лекция 5.1
 - ✔️ семинар 5.1
 - ✔️ лекция 5.2
 - ✔️ семинар 5.2
 - ✔️ домашка 5.1
-- ❌ домашка 5.2
+- ✔️ домашка 5.2
 
 </details>
 <details><summary>❌ 6. Компьютерное зрение</summary>
