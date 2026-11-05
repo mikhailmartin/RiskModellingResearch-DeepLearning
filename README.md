@@ -44,7 +44,10 @@
 - ✔️ домашка 5.2
 
 </details>
-<details><summary>❌ 6. Компьютерное зрение</summary>
+<details><summary>✔️ 6. Компьютерное зрение</summary>
+
+- ✔️ лекция
+
 </details>
 <details><summary>❌ 7. Рекуррентные нейронные сети, NLP</summary>
 </details>
