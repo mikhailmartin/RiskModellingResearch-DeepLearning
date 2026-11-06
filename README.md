@@ -49,11 +49,11 @@
 - ✔️ лекция 6
 
 </details>
-<details open="true"><summary>❌ 7. Рекуррентные нейронные сети, NLP</summary>
+<details><summary>✔️ 7. Рекуррентные нейронные сети, NLP</summary>
 
 - ✔️ лекция 7
 - ✔️ семинар 7.1
-- ❌ семинар 7.2
+- ✔️ семинар 7.2
 
 </details>
 <details><summary>❌ 8. Transformer, Attention</summary>
