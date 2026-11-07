@@ -56,7 +56,14 @@
 - ✔️ семинар 7.2
 
 </details>
-<details><summary>❌ 8. Transformer, Attention</summary>
+<details open="true"><summary>❌ 8. Transformer, Attention</summary>
+
+- ❌ лекция 8
+
 </details>
-<details><summary>❌ 9. Graph Neural Networks</summary>
+<details open="true"><summary>❌ 9. Graph Neural Networks</summary>
+
+- ✔️ лекция 9
+- ❌ семинар 9
+
 </details>
