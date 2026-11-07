@@ -61,9 +61,9 @@
 - ❌ лекция 8
 
 </details>
-<details open="true"><summary>❌ 9. Graph Neural Networks</summary>
+<details><summary>✔️ 9. Graph Neural Networks</summary>
 
 - ✔️ лекция 9
-- ❌ семинар 9
+- ✔️ семинар 9
 
 </details>
